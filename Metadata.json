@@ -1,0 +1,11 @@
+{
+  "name": "Tuxedo",
+  "symbol": "TUX",
+  "description": "Tuxedo Token - Powered by TON Blockchain",
+  "decimals": 9,
+  "logo": {
+    "type": "image/png",
+    "url": "ipfs://bafybeih6utkmwgr4nw4l5tkb3ox4qelwv3bjguyd47g22rnk7bzzmf7jme"
+  },
+  "tags": ["jetton", "ton", "tuxedo"]
+}

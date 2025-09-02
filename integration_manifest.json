@@ -1,0 +1,69 @@
+
+{
+  "project_name": "TuxidoMineBot",
+  "version": "2.0.0",
+  "integration_type": "unified_development",
+  "repositories": {
+    "main": "https://replit.com/@s9igma/TuxidoMineBot",
+    "current": "Current Repl Instance",
+    "sync_status": "integrated"
+  },
+  "features": {
+    "ai_autonomous_management": {
+      "enabled": true,
+      "description": "AI handles all upgrades and optimizations",
+      "components": ["ai_assistant.py", "start_ai_mode.py"]
+    },
+    "ton_blockchain_integration": {
+      "enabled": true,
+      "description": "Full TON blockchain mining capabilities",
+      "components": ["main.py", "config.py"]
+    },
+    "telegram_bot_support": {
+      "enabled": true,
+      "description": "Telegram notifications and bot commands",
+      "components": ["main.py", "project_config.py"]
+    },
+    "p2e_mechanics": {
+      "enabled": true,
+      "description": "Play-to-Earn token mining with rewards",
+      "components": ["main.py", "project_config.py"]
+    },
+    "performance_optimization": {
+      "enabled": true,
+      "description": "AI-driven performance optimization",
+      "components": ["ai_assistant.py"]
+    },
+    "auto_upgrading_system": {
+      "enabled": true,
+      "description": "Autonomous code upgrades via AI",
+      "components": ["ai_assistant.py", "start_ai_mode.py"]
+    }
+  },
+  "integration_status": {
+    "unified": true,
+    "ai_managed": true,
+    "blockchain_ready": true,
+    "production_ready": false,
+    "last_sync": "2025-08-23T13:54:27Z"
+  },
+  "deployment": {
+    "platform": "Replit",
+    "run_command": "python main.py",
+    "ai_mode_command": "python start_ai_mode.py",
+    "environment_variables": [
+      "OPENAI_API_KEY",
+      "GITHUB_TOKEN",
+      "TON_WALLET_ADDRESS",
+      "TELEGRAM_BOT_TOKEN"
+    ]
+  },
+  "ai_capabilities": {
+    "autonomous_optimization": true,
+    "performance_monitoring": true,
+    "code_upgrades": true,
+    "error_handling": true,
+    "blockchain_integration": true,
+    "resource_management": true
+  }
+}

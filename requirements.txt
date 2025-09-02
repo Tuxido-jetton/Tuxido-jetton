@@ -1,0 +1,11 @@
+asyncio
+requests
+python-telegram-bot==20.7
+tonpy
+aiohttp
+openai==0.28.1
+GitPython
+schedule
+pytoniq
+tonclient
+flask
